@@ -1,0 +1,50 @@
+body {
+    background-color: #ffdffffa; 
+    
+}
+#image {
+    background-image: url("./pattern.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#d1{
+    background-color: mediumspringgreen;
+    color: white;
+    font-weight: bold;
+    font-family: helvetica;
+    font-size: 32px;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+p b{
+    font-weight: bold;
+    color: blue;
+}
+
+#d2 {
+    background-color: lightcoral;
+    color: white;
+    font-weight: bold;
+    font-family: helvetica;
+    font-size: 32px;
+}
+
+#d3 {
+    background-color: skyblue;
+    color: white;
+    font-weight: bold;
+    font-family: helvetica;
+    font-size: 32px;
+}
